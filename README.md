@@ -1,0 +1,1 @@
+This is a relatively simple app for working with timed breaks. You input the length of time you wish to work and the length of time you wish to rest. The app will show a Tkinter window when either period is done. To begin a period, simply close out of the window and the timer will begin. The program can be escaped with a keyboard interrupt.
